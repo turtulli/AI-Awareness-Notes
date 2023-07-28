@@ -1,6 +1,6 @@
-### AI Awareness Notes (AIAN)
+# AI Awareness Notes (AIAN)
 
-##### AI Story
+## AI Story
 Yuval Noah Harari argues that humans became humans as they gathered around stories. Telling stories gave rise to a collective identity, a sense of purpose, and a foundation for cooperation. 
 
 Now we have a new story, Artificial Intelligence (AI).
@@ -17,5 +17,5 @@ In fact, Geoffrey Hinton, the godfather of AI, successfully advocated for a focu
 
 Fei-Fei Li says that when building an airplane, it's aerodynamics and physics that govern the process of flying. If we ask for similar laws in the relationship between AI and brain, it still feels like we are before Newton's laws. 
 
-##### So, what makes AI still so powerful like ChatGPT? (to do)
+### So, what makes AI still so powerful like ChatGPT? (to do)
 
