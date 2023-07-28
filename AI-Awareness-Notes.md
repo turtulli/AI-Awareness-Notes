@@ -17,5 +17,5 @@ In fact, Geoffrey Hinton, the godfather of AI, successfully advocated for a focu
 
 Fei-Fei Li says that when building an airplane, it's aerodynamics and physics that govern the process of flying. If we ask for similar laws in the relationship between AI and brain, it still feels like we are before Newton's laws. 
 
-### So, what makes AI still so powerful like ChatGPT? (to do)
+### Then what makes AI like ChatGPT so powerful? (to do)
 
