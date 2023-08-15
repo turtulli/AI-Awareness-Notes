@@ -27,12 +27,9 @@ We also know that while biological intelligence is mortal, digital intelligence 
 What is surprising, though, is that digital intelligence may have a better learning algorithm than the brain. 
 
 ## AI Learning Algorithm
-Where is the Life we have lost in living?
-
-Where is the wisdom we have lost in knowledge?
-
-Where is the knowledge we have lost in information?
-
+Where is the Life we have lost in living?</br>
+Where is the wisdom we have lost in knowledge?</br>
+Where is the knowledge we have lost in information?</br>
 ― T.S. Eliot, The Rock (1934)
 
 These lines by T.S. Eliot are believed to have originated the idea of the DIKW (Data → Information → Knowledge → Wisdom) relationship, which has been a part of the language of information science for many years.
