@@ -59,10 +59,10 @@ A simple example of how you can extract knowledge using logic and symbols might 
 
 This image can effectively illustrate how we can determine an animal based on its physical characteristics. However, does it perform well in practice? Can this model solve the following riddle?
 
-'I am a creature of stripes, adorned like a canvas of art,
-With black and white in harmony, running free with all my heart.
-In the African grasslands, where the sun kisses the earth,
-I roam with my herd, my beauty, and my worth.
+'I am a creature of stripes, adorned like a canvas of art,</br>
+With black and white in harmony, running free with all my heart.</br>
+In the African grasslands, where the sun kisses the earth,</br>
+I roam with my herd, my beauty, and my worth.</br>
 What am I?' (Answer: Zebra)
 
 The creative and metaphorical nature of the riddle makes it difficult for symbolic AI to interpret the poetic language and connect it to the specific answer 'zebra'. While the inability to solve a riddle doesn't define the quality of an AI model, it does highlight the limitations of the model.
