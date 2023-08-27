@@ -29,7 +29,7 @@ What is surprising, though, is that digital intelligence may have a better learn
 ## AI Learning Algorithm
 Where is the Life we have lost in living?  
 Where is the wisdom we have lost in knowledge?  
-Where is the knowledge we have lost in information?
+Where is the knowledge we have lost in information?</br>
 ― T.S. Eliot, The Rock (1934)
 
 These lines by T.S. Eliot are believed to have originated the idea of the DIKW (Data → Information → Knowledge → Wisdom) relationship, which has been a part of the language of information science for many years.
@@ -108,7 +108,7 @@ Thus, the **artificial neuron** sums all the inputs or **weights** and passes th
 
 > The mechanism of the artificial neuron is our closest attempt to emulate the functioning of brain neurons. However, the collaborative behavior of artificial neurons within a layer only partially mirrors the cooperative interactions observed among neighboring neurons in the brain's neural network.
 
-##### How ANNs Learn
+#### How ANNs Learn
 Systems of this kind aim for a minimum accuracy of 90%, which means the current predictions of the system (0.2=20% horse, 0.7=70% zebra, and 0.1=10% dog) indicate that the system is still in the learning or training phase, as per AI terminology. During training, we input images for which we already know the true identity. In this specific case, knowing that the input is a zebra, we should obtain probabilities like: 92% zebra, 7% horse, 1% dog. Thus, there's an error of 92% (target) - 70% (current) = 22% = 0.22. Since we calculated all these numbers using mathematics, (quite a lot of it, in fact), we recalibrate the weights accordingly to achieve the desired output of 0.92 = 92% zebra. Done, our system is now trained! Despite the simplicity of the concept, it took many years, to make a practical implementation of the concept. 
 
 A simpler challenge easy to understand by a broader audience lies in determining the quantity of images required to train our system effectively. If we set the desired target output at 92%, it implies that our system will derive nearly all of its learning from that final image. Therefore, opting for a smaller target, say 71%, allocating around 1% (or 2%?!) of learning from each individual image may seem reasonable. In practice, these systems often demand thousands, if not tens of thousands, of images for training. Hence, some serious mathematics is required just to come up with the optimal number of images needed to properly train the system.
@@ -125,11 +125,11 @@ This controlled randomness in the outcome can be viewed as a clear disadvantage 
 
 Typically, only the following verses of T.S. Eliot are cited in data and information processing contexts:
 
-Where is the wisdom we have lost in knowledge?
+Where is the wisdom we have lost in knowledge?</br>
 Where is the knowledge we have lost in information?
 
 Could AI's potential to solve global problems lead us to a future where technology empowers us to live more meaningful and fulfilling lives? Do we need to consider including the first line as well?
 
 Where is the Life we have lost in living?
 
-### AI and ChatGPT
+## AI and ChatGPT
